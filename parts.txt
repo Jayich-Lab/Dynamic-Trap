@@ -1,0 +1,6 @@
+1x motor speed controller (Adafruit DRV8871) ($7.50)
+1x Arduino [we use an UNO, but other model would work] ($24)
+1x DC motor
+1x saddle (material cost ~$1)
+1x motor mount (material cost ~$1)
+1x ball bearing, ping-pong ball, etc.
