@@ -1,3 +1,5 @@
+[![Ion Trapping Demo](http://img.youtube.com/vi/MBt415qsYS0/0.jpg)](https://www.youtube.com/watch?v=MBt415qsYS0 "Mechanical Ion Trap Demonstration")
+
 # Dynamic mechanical trap
 Ion traps hold charge particles such as atoms or molecules that are missing an electron (they are "ionized").  They are powerful tools for quantum information science, precision optical timekeeping, quantum chemistry, nuclear physics, and even particle physics.  One type of ion trap, a Paul trap named after the Nobel Laureate  [Wolfgang Paul](https://en.wikipedia.org/wiki/Wolfgang_Paul), traps charged particles with a combination of static and dynamic electric fields.  The dynamic electric field that traps the ions is a bit difficult to visualize.  The mechanical analogue of the electric trap that we have developed in this repository helps one understand the forces and fields present in an ion trap.
 
