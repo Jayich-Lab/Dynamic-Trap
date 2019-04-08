@@ -1,4 +1,4 @@
-A video explaining and displaying the demonstration:
+A video explaining and displaying the demonstration (click to watch):
 
 [![Ion Trapping Demo](http://img.youtube.com/vi/MBt415qsYS0/0.jpg)](https://www.youtube.com/watch?v=MBt415qsYS0 "Mechanical Ion Trap Demonstration")
 
